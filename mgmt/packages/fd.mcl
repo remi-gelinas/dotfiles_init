@@ -1,0 +1,7 @@
+pkg "fd" {
+    state => "installed",
+}
+
+pkg "fd-find" {
+    state => "installed",
+}
